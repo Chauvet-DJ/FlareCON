@@ -34,7 +34,7 @@ body:
       options:
         - 0.0.1 (Beta)
         - Other - 0.0.1 (Beta)
-       value: 0.0.1 (Beta)
+       placeholder: 0.0.1 (Beta)
     validations:
       required: true
 
