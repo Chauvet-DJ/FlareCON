@@ -33,7 +33,7 @@ body:
       description: What version of our software are you running?
       options:
         - 0.0.1 (Beta)
-        - Other - 0.0.1 (Beta)
+        - Other
       
     validations:
       required: true
